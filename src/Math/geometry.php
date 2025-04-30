@@ -1,8 +1,9 @@
 <?php
  
-namespace gustavodomingues\ApiGeometry\Math;
+namespace GustavoDomingues1\ApiGeometric\Math;
  
-class Geometria {
+class Geometric
+ {
     /**
     *  @return float
     */
