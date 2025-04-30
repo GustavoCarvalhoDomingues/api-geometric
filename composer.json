@@ -1,0 +1,18 @@
+{
+    "name": "gustavo.domingues1/api-geometric",
+    "autoload": {
+        "psr-4": {
+            "GustavoDomingues1\\ApiGeometric\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GustavoCarvalhoDomingues",
+            "email": "gudomingues2009@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    }
+}
