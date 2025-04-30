@@ -1,7 +1,7 @@
 <?php
  
 namespace GustavoDomingues1\ApiGeometric\Math;
- 
+
 class Geometric
  {
     /**
